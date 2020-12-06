@@ -3,6 +3,6 @@ defmodule FizzBuzzTest do
   doctest FizzBuzz
 
   test "greets the world" do
-    assert FizzBuzz.hello() == :world
+  assert FizzBuzz.hello() == :world
   end
 end
